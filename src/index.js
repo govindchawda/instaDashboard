@@ -12,11 +12,11 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     {/* <GoogleOAuthProvider clientId='746275054981-mnul380ivd16k553fp7u19ooirnak4f1.apps.googleusercontent.com'>
-    <App />
     </GoogleOAuthProvider> */}
-    <Pract/>
+    {/* <Pract/> */}
     {/* <FormLogin/> */}
     {/* <Practice/> */}
+    <App />
   </React.StrictMode>
 );
 
